@@ -1,0 +1,22 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    min-width: 1920px;
+}
+
+.header img {
+    margin-left: 50px;
+}
+
+.linkPart {
+    
+    margin-top: 25px;
+ 
+}
+.linkPart a{
+     margin-left: 10px;
+     margin-right: 50px;
+     color: white;
+}
